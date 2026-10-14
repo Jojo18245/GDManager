@@ -1,2 +1,2 @@
 # GDManager
-A mod for BSManager for Geometry Dash
+A mod of BSManager for Geometry Dash
